@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Personal Profile</title>
+    <style>
+        body { font-family: Arial, sans-serif; color: #333; }
+        .container { max-width: 800px; margin: auto; padding: 20px; }
+        header, footer { text-align: center; padding: 20px 0; }
+        h1, h2 { color: #6A5ACD; }
+        h3 { color: #1E90FF; }
+        p, ul { line-height: 1.6; }
+        .section { margin-bottom: 20px; }
+        .footer { background-color: #FFA500; color: white; padding: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Your Name</h1>
+            <p>A Community-Oriented, Theory-Practice Minded Scholar</p>
+        </header>
+
+        <div class="section">
+            <h2>Summary/Statement</h2>
+            <p>Results-driven and strategically minded entrepreneur with a robust background...</p>
+        </div>
+
+        <!-- Repeat for each section (Education, Honors/Awards, etc.) -->
+
+        <footer class="footer">
+            <p>Contact Information: Email | LinkedIn</p>
+        </footer>
+    </div>
+</body>
+</html>
